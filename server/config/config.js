@@ -4,7 +4,7 @@ module.exports = {
         // options: {expiresIn: 60 * 60 * 24} // 1 day
     },
     mongo:{
-        url: 'mongodb://localhost/fashion-pecks'
+        url: 'mongodb://localhost/node-demo'
     },
     bodyParserLimit: '50mb',
     port:5000
