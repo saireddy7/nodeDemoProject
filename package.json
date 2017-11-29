@@ -1,0 +1,30 @@
+{
+  "name": "fashion-pecks-web",
+  "version": "1.0.0",
+  "description": "This README would normally document whatever steps are necessary to get your application up and running.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://chakravenimtw@bitbucket.org/mtwlabs/fashion-pecks-web.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "homepage": "https://bitbucket.org/mtwlabs/fashion-pecks-web#readme",
+  "dependencies": {
+    "async": "^2.5.0",
+    "body-parser": "^1.18.1",
+    "cookie-parser": "^1.4.3",
+    "crypto": "^1.0.1",
+    "express": "^4.15.4",
+    "fs-extra": "^4.0.2",
+    "jsonwebtoken": "^8.0.1",
+    "mongoose": "^4.11.11",
+    "morgan": "^1.9.0",
+    "nodemailer": "^4.2.0",
+    "underscore": "^1.8.3"
+  }
+}
